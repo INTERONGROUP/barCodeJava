@@ -1,3 +1,4 @@
+package com.interon.barcode
 import org.krysalis.barcode4j.impl.code128.Code128Bean;
 import org.krysalis.barcode4j.impl.pdf417.PDF417Bean;
 import org.krysalis.barcode4j.output.bitmap.BitmapCanvasProvider;
